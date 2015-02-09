@@ -1,8 +1,3 @@
-<!--
-Brian Zimorowicz
-INLS 760, Capra, Project 2, Spring 2015
-Assigned: Feb 06, PHP Read DB Display Web
--->
 
 <!DOCTYPE html>
 <html lang="en">
